@@ -29,3 +29,7 @@ Run `npm start` to start the server
 ## Testing
 
 To run the tests, run `npm test` in the terminal. The tests were written using Mocha and Chai.
+
+## Scope for improvement
+
+- Error handling
